@@ -1,0 +1,21 @@
+.form{
+    border: 2px solid;
+    border-radius: 20px;
+    margin: auto;
+    height: 350px;
+    width: 400px;
+}
+
+.introduction{
+    text-align: left;
+}
+
+.name{
+    text-transform: uppercase;
+}
+.qualification{
+    text-align: left;
+}
+.degree{
+    text-transform: uppercase;
+}
