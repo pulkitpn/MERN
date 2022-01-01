@@ -4,8 +4,10 @@ import Restaurent from './component/basics/Restaurent'
 const App = () => {
   return (
     <div>
-     
+
+      <div>
      <Restaurent />
+     </div>
      
     </div>
   )
